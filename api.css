@@ -1,0 +1,96 @@
+
+form	{
+	margin-left: 20px;
+}
+label{
+
+	font-size: 10px;
+}
+
+.container_index{
+	 margin: 50px;
+	padding: 10px;
+}
+
+p{
+	font-size: 20px;
+}
+body
+{   
+	background-color: #FFFFFF;
+}
+.test
+{
+
+	box-sizing: border-box;
+		border: 3px solid grey opacity:0.5;
+		border-radius: 10px ;
+}
+
+.image{
+	background-color: #e8e8f7;
+	float: left;
+	margin: 10px;
+	width: 100%;
+	padding: 10px;
+	box-sizing: border-box;
+	border: 3px solid grey opacity:0.5;
+	font-family: georgia, serif;
+}
+.test{
+	float: left;
+	margin-right: 10px;
+	box-sizing: border-box;
+	/*border: 3px solid red ;*/
+	width: 40%;
+
+}
+
+.text_aling{
+	width: 55%;
+	float: left;
+	box-sizing: border-box;
+	/*border: 3px solid red ;*/
+	font-size: 20px;
+}
+
+
+.text, label
+{
+	font-size: 15px;
+}
+p{
+	font-size: 20px;
+}
+.img{
+	float: left;
+	margin-left: 10px;
+	box-sizing: border-box;
+    border: 3px solid red;
+}
+.c1{
+	padding: 10px;
+box-sizing: border-box;
+/*border: 3px solid red;
+background: blue;*/
+overflow: hidden;
+}
+
+.c2{
+	float: left;
+	margin: 0px 10px;
+box-sizing: border-box;
+/*border: 3px solid green;
+background: blue;*/
+width: 60%;
+}
+
+.c3{
+	float: left;
+box-sizing: border-box;
+
+/*border: 3px solid yellow;
+background: blue;*/
+width: 60%;
+}
+
